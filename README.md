@@ -23,3 +23,6 @@ Growth hacking for crypto startups - Innovative tools for blockchain startups & 
 
  ## [FLIPSIDE](https://earn.flipsidecrypto.xyz)
  We are a community of thousands of blockchain trailblazers who are committed to advancing the data insights available in the blockchain industry.
+ 
+ ## [TrantorDAO](https://trantor.xyz)
+ A Unified Web3 Portal Promoting Interconnectivity Among Communities & Brands through Empowered Decentralized Identities
