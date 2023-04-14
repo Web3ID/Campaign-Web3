@@ -42,4 +42,7 @@ The Credential Protocol Your home to issue, manage, and consume verifiable crede
 Become part of the most exciting communities in the world. Explore new horizons, achieve the impossible, and make a difference - all while having fun and earning rewards.
 
 
+## [Wonderverse](https://www.wonderverse.xyz)
+Community collaboration infrastructure for the new internet - Manage proposals, tasks, bounties, and grants.
+
 
