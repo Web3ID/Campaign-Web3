@@ -36,3 +36,10 @@ TaskOn - A Web3 Task Collaboration Platform - Boosts the completion for various 
 
 ## [Gateway](https://www.mygateway.xyz)
 The Credential Protocol Your home to issue, manage, and consume verifiable credentials.
+
+
+## [Zealy/previously Crew3](https://zealy.io)
+Become part of the most exciting communities in the world. Explore new horizons, achieve the impossible, and make a difference - all while having fun and earning rewards.
+
+
+
