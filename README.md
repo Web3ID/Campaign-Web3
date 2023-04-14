@@ -13,16 +13,26 @@ SoQuest Is A Web3 Portal To Earn Rewards & Build Identities.
 ## [Questbookapp](https://app.questn.com/explore)
 Marketing, Growth and Analysis for Web3
  
- 
- ## [Layer3 Quest](https://layer3.xyz/quests)
- The best way to learn, explore, and succeed in web3. Get started with Quests on Layer3.
- 
- 
- ## [AirLyft.One](https://apps.airlyft.one)
+  
+## [Layer3 Quest](https://layer3.xyz/quests)
+The best way to learn, explore, and succeed in web3. Get started with Quests on Layer3.
+
+
+## [AirLyft.One](https://apps.airlyft.one)
 Growth hacking for crypto startups - Innovative tools for blockchain startups & traditional marketers alike. Run customized campaigns, distribute rewards on-chain & boost your project instantaneously.
 
+ 
  ## [FLIPSIDE](https://earn.flipsidecrypto.xyz)
- We are a community of thousands of blockchain trailblazers who are committed to advancing the data insights available in the blockchain industry.
+We are a community of thousands of blockchain trailblazers who are committed to advancing the data insights available in the blockchain industry.
+ 
  
  ## [TrantorDAO](https://trantor.xyz)
- A Unified Web3 Portal Promoting Interconnectivity Among Communities & Brands through Empowered Decentralized Identities
+ A Unified Web3 Portal Promoting Interconnectivity Among Communities & Brands through Empowered Decentralized Identities.
+ 
+ 
+ ## [Taskon](https://taskon.xyz)
+TaskOn - A Web3 Task Collaboration Platform - Boosts the completion for various Web3 tasks in a decentralized way 🤝.
+
+
+## [Gateway](https://www.mygateway.xyz)
+The Credential Protocol Your home to issue, manage, and consume verifiable credentials.
