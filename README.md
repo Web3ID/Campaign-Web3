@@ -46,7 +46,8 @@ Become part of the most exciting communities in the world. Explore new horizons,
 Community collaboration infrastructure for the new internet - Manage proposals, tasks, bounties, and grants.
 
 
-
+## [Bepro Network](https://bepro.network/)
+Bepro is a task-based marketplace created to help organizations and builders thrive. Organizations can easily create and launch tasks, while builders have the opportunity to work on them and earn crypto as payment, providing a more efficient and transparent collaboration.
 
 
 ## Social Media
